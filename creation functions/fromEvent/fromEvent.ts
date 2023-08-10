@@ -1,3 +1,5 @@
+//fromEvent is a hot Observable (works on button click)
+
 import {fromEvent} from 'rxjs';
 
 console.log("Starting")
